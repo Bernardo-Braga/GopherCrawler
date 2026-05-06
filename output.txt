@@ -1,0 +1,160 @@
+[21:58:14] REQUEST comp3310.ddns.net:70 "\r\n"
+[21:58:14] REQUEST comp3310.ddns.net:70 "/rfc1436.txt\r\n"
+[21:58:14] REQUEST comp3310.ddns.net:70 "/acme\r\n"
+[21:58:14] REQUEST comp3310.ddns.net:70 "/acme/about\r\n"
+[21:58:19] RETRY 1/3 comp3310.ddns.net:70 "/acme/about\r\n" - reason: connect timed out (waiting 500 ms)
+[21:58:20] REQUEST comp3310.ddns.net:70 "/acme/about\r\n"
+[21:58:21] REQUEST comp3310.ddns.net:70 "/acme/contact\r\n"
+[21:58:21] REQUEST comp3310.ddns.net:70 "/maze/17\r\n"
+[21:58:25] REQUEST comp3310.ddns.net:70 "/misc\r\n"
+[21:58:26] REQUEST comp3310.ddns.net:70 "/misc/empty.txt\r\n"
+[21:58:26] REQUEST comp3310.ddns.net:70 "/misc/binary\r\n"
+[21:58:26] REQUEST comp3310.ddns.net:70 "/misc/encabulator.jpeg\r\n"
+[21:58:26] REQUEST comp3310.ddns.net:70 "/misc/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong\r\n"
+[21:58:32] RETRY 1/3 comp3310.ddns.net:73 "\r\n" - reason: connect timed out (waiting 500 ms)
+[21:58:37] RETRY 2/3 comp3310.ddns.net:73 "\r\n" - reason: connect timed out (waiting 1000 ms)
+[21:58:44] REQUEST comp3310.ddns.net:70 "/acme/products\r\n"
+[21:58:45] REQUEST comp3310.ddns.net:70 "/acme/products/anvils\r\n"
+[21:58:47] REQUEST comp3310.ddns.net:70 "/acme/products/pianos\r\n"
+[21:58:48] REQUEST comp3310.ddns.net:70 "/acme/products/paint\r\n"
+[21:58:48] REQUEST comp3310.ddns.net:70 "/maze/18\r\n"
+[21:58:53] RETRY 1/5 comp3310.ddns.net:70 "/maze/18\r\n" - reason: connect timed out (waiting 500 ms)
+[21:58:54] REQUEST comp3310.ddns.net:70 "/maze/18\r\n"
+[21:58:55] REQUEST comp3310.ddns.net:70 "/misc/empty\r\n"
+[21:58:55] REQUEST comp3310.ddns.net:70 "/misc/nesta\r\n"
+[21:58:55] REQUEST comp3310.ddns.net:70 "/misc/nonexistent\r\n"
+[21:59:00] RETRY 1/5 comp3310.ddns.net:70 "/misc/nonexistent\r\n" - reason: connect timed out (waiting 500 ms)
+[21:59:00] REQUEST comp3310.ddns.net:70 "/misc/nonexistent\r\n"
+[21:59:00] REQUEST comp3310.ddns.net:70 "/misc/more\r\n"
+[21:59:00] REQUEST comp3310.ddns.net:70 "/misc/malformed2\r\n"
+[21:59:05] RETRY 1/3 comp3310.ddns.net:70 "/misc/malformed2\r\n" - reason: connect timed out (waiting 500 ms)
+[21:59:06] REQUEST comp3310.ddns.net:70 "/misc/malformed2\r\n"
+[21:59:06] REQUEST comp3310.ddns.net:70 "/misc/firehose\r\n"
+[21:59:26] REQUEST comp3310.ddns.net:70 "/misc/tarpit\r\n"
+[21:59:46] REQUEST comp3310.ddns.net:70 "/misc/godot\r\n"
+[22:00:06] REQUEST comp3310.ddns.net:70 "/acme/products/traps\r\n"
+[22:00:06] REQUEST comp3310.ddns.net:70 "/maze/19\r\n"
+[22:00:06] REQUEST comp3310.ddns.net:70 "/maze/statuette\r\n"
+[22:00:06] REQUEST comp3310.ddns.net:70 "/maze/floppy\r\n"
+[22:00:11] RETRY 1/3 comp3310.ddns.net:70 "/maze/floppy\r\n" - reason: connect timed out (waiting 500 ms)
+[22:00:11] REQUEST comp3310.ddns.net:70 "/maze/floppy\r\n"
+[22:00:12] REQUEST comp3310.ddns.net:70 "/misc/nestb\r\n"
+[22:00:13] REQUEST comp3310.ddns.net:70 "/misc/malformed1\r\n"
+[22:00:13] REQUEST comp3310.ddns.net:70 "/maze/20\r\n"
+[22:00:13] REQUEST comp3310.ddns.net:70 "/misc/nestc\r\n"
+[22:00:15] REQUEST comp3310.ddns.net:70 "/maze/21\r\n"
+[22:00:15] REQUEST comp3310.ddns.net:70 "/misc/nestd\r\n"
+[22:00:16] REQUEST comp3310.ddns.net:70 "/maze/22\r\n"
+[22:00:21] RETRY 1/5 comp3310.ddns.net:70 "/maze/22\r\n" - reason: connect timed out (waiting 500 ms)
+[22:00:21] REQUEST comp3310.ddns.net:70 "/maze/22\r\n"
+[22:00:23] REQUEST comp3310.ddns.net:70 "/misc/neste\r\n"
+[22:00:23] REQUEST comp3310.ddns.net:70 "/maze/23\r\n"
+[22:00:23] REQUEST comp3310.ddns.net:70 "/misc/nestf\r\n"
+[22:00:23] REQUEST comp3310.ddns.net:70 "/misc/nestg\r\n"
+[22:00:23] REQUEST comp3310.ddns.net:70 "/misc/nesth\r\n"
+[22:00:24] REQUEST comp3310.ddns.net:70 "/misc/nesti\r\n"
+[22:00:29] RETRY 1/5 comp3310.ddns.net:70 "/misc/nesti\r\n" - reason: connect timed out (waiting 500 ms)
+[22:00:30] REQUEST comp3310.ddns.net:70 "/misc/nesti\r\n"
+[22:00:31] REQUEST comp3310.ddns.net:70 "/misc/nestj\r\n"
+[22:00:31] REQUEST comp3310.ddns.net:70 "/misc/nestk\r\n"
+[22:00:31] REQUEST comp3310.ddns.net:70 "/misc/nestl\r\n"
+[22:00:31] REQUEST comp3310.ddns.net:70 "/misc/nestm\r\n"
+[22:00:31] REQUEST comp3310.ddns.net:70 "/misc/nestn\r\n"
+[22:00:32] REQUEST comp3310.ddns.net:70 "/misc/nesto\r\n"
+[22:00:33] REQUEST comp3310.ddns.net:70 "/misc/nestp\r\n"
+[22:00:33] REQUEST comp3310.ddns.net:70 "/misc/nestq\r\n"
+[22:00:38] RETRY 1/5 comp3310.ddns.net:70 "/misc/nestq\r\n" - reason: connect timed out (waiting 500 ms)
+[22:00:38] REQUEST comp3310.ddns.net:70 "/misc/nestq\r\n"
+[22:00:38] REQUEST comp3310.ddns.net:70 "/misc/nestr\r\n"
+[22:00:38] REQUEST comp3310.ddns.net:70 "/misc/nests\r\n"
+[22:00:41] REQUEST comp3310.ddns.net:70 "/misc/nestt\r\n"
+[22:00:41] REQUEST comp3310.ddns.net:70 "/misc/nestu\r\n"
+[22:00:41] REQUEST comp3310.ddns.net:70 "/misc/nestv\r\n"
+[22:00:41] REQUEST comp3310.ddns.net:70 "/misc/nestw\r\n"
+[22:00:42] REQUEST comp3310.ddns.net:70 "/misc/nestx\r\n"
+[22:00:42] REQUEST comp3310.ddns.net:70 "/misc/nesty\r\n"
+[22:00:42] REQUEST comp3310.ddns.net:70 "/misc/nestz\r\n"
+
+=== Crawl Summary ===
+Server: comp3310.ddns.net:70
+
+Gopher directories found: 41
+  /
+  /acme
+  /maze/17
+  /misc
+  /acme/products
+  /maze/18
+  /misc/empty
+  /misc/nesta
+  /misc/nonexistent
+  /misc/more
+  /acme/products/traps
+  /maze/19
+  /misc/nestb
+  /misc/malformed1
+  /maze/20
+  /misc/nestc
+  /maze/21
+  /misc/nestd
+  /maze/22
+  /misc/neste
+  /maze/23
+  /misc/nestf
+  /misc/nestg
+  /misc/nesth
+  /misc/nesti
+  /misc/nestj
+  /misc/nestk
+  /misc/nestl
+  /misc/nestm
+  /misc/nestn
+  /misc/nesto
+  /misc/nestp
+  /misc/nestq
+  /misc/nestr
+  /misc/nests
+  /misc/nestt
+  /misc/nestu
+  /misc/nestv
+  /misc/nestw
+  /misc/nestx
+  /misc/nesty
+
+Simple text files found: 12
+  /rfc1436.txt (36494 bytes decoded, 37396 bytes raw)
+  /acme/about (556 bytes decoded, 573 bytes raw)
+  /acme/contact (403 bytes decoded, 422 bytes raw)
+  /misc/empty.txt (0 bytes decoded, 3 bytes raw)
+  /misc/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong (16 bytes decoded, 20 bytes raw)
+  /acme/products/anvils (318 bytes decoded, 328 bytes raw)
+  /acme/products/pianos (237 bytes decoded, 246 bytes raw)
+  /acme/products/paint (172 bytes decoded, 178 bytes raw)
+  /misc/malformed2 (106 bytes decoded, 111 bytes raw)
+  /maze/statuette (77 bytes decoded, 82 bytes raw)
+  /maze/floppy (34 bytes decoded, 38 bytes raw)
+  /misc/nestz (7 bytes decoded, 11 bytes raw)
+
+Binary/non-text files found: 2
+  /misc/binary (253 bytes)
+  /misc/encabulator.jpeg (45584 bytes)
+
+Smallest text file: /misc/empty.txt, 0 bytes decoded (3 bytes raw)
+Smallest binary file: /misc/binary, 253 bytes
+
+External servers referenced: 5
+  gopher.floodgap.com:70 - UP
+  comp3310.ddns.net:71 - UP
+  comp3310.ddns.net:72 - DOWN (connect failed: Connection refused)
+  comp3310.ddns.net:73 - DOWN (after 3 attempts: connect timed out)
+  comp3310.ddns.net:74 - DOWN (connect failed: Connection refused)
+
+Invalid references, type 3: 1
+  / [type 3] - I don't have the resource you asked for.
+
+Other issues/errors: 5
+  /misc/malformed2 [type 0] - text file response did not contain a Gopher terminator line
+  /misc/firehose [type 0] - text file fetch failed: overall fetch deadline of 20 s exceeded
+  /misc/tarpit [type 0] - text file fetch failed: overall fetch deadline of 20 s exceeded
+  /misc/godot [type 0] - text file fetch failed: overall fetch deadline of 20 s exceeded
+  /misc/malformed1 [type 1] - malformed directory entry at /misc/malformed1 line 1: malformed menu line: expected display, selector, host, port fields
